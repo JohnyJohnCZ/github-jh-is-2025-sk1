@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\refint\program000a-zakladni-kod.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program000a-zakladni-kod\obj\Debug\net9.0\ref\program000a-zakladni-kod.dll

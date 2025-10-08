@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\github-jh-is-2025-sk1.csproj": {}
+    "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\IS-Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\github-jh-is-2025-sk1.csproj": {
+    "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\IS-Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\github-jh-is-2025-sk1.csproj",
-        "projectName": "github-jh-is-2025-sk1",
-        "projectPath": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\github-jh-is-2025-sk1.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\IS-Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
+        "projectName": "program000a-zakladni-kod",
+        "projectPath": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\IS-Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
         "packagesPath": "C:\\Users\\Honza\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2025\\github-jh-is-2025-sk1\\IS-Programy\\program000a-zakladni-kod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honza\\AppData\\Roaming\\NuGet\\NuGet.Config"
