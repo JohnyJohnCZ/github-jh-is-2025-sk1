@@ -29,9 +29,9 @@ while (again == "a")
 
 
 
-
-
 /* prvni kod
+
+
 Console.Clear();
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Program ukončíte stiskem klávesy ENTER");
