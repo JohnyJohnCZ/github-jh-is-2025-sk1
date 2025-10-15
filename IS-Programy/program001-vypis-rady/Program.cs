@@ -2,11 +2,11 @@
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine(" ******************************");
-    Console.WriteLine(" ****** Výpis řady čísel ******");
-    Console.WriteLine(" ******************************");
-    Console.WriteLine(" *******  Jan Honzíček  *******");
-    Console.WriteLine(" ******************************");
+    Console.WriteLine("******************************");
+    Console.WriteLine("****** Výpis řady čísel ******");
+    Console.WriteLine("******************************");
+    Console.WriteLine("*******  Jan Honzíček  *******");
+    Console.WriteLine("******************************");
     Console.WriteLine();
 
     /*vstup hodnoty do programu - špatně řešený
@@ -36,12 +36,36 @@ while (again == "a")
         Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo:");
     }
         
+        //výpis vstupních hodnot
+Console.WriteLine("******************************");
+Console.WriteLine("** Zadali jste tyto hodnoty **");
+Console.WriteLine("******************************");
+Console.WriteLine("První číslo řady: {0}", first);
+Console.WriteLine("Poslední číslo řady: {0}", last);
+Console.WriteLine("Diference: {0}", step);
+    Console.WriteLine("******************************");
+    Console.WriteLine("První číslo řady: {0}; Poslední číslo řady: {1}; Diference: {2}", first, last, step);
 
-       
+
+//Výpis řady
+    Console.WriteLine("******************************");
+    Console.WriteLine("****** Výpis řady čísel ******");
+    Console.WriteLine("******************************");
+    int current = first;
+while (current <= last)
+    {
+        Console.WriteLine(current);
+        current = current + step; // current += step - ruční přičtení diference
+    }
+
+
+
+
     Console.WriteLine("");
     Console.WriteLine("Pro opakování programu stiskněte 'a', pro ukončení jinou klávesu.");
     again = Console.ReadLine();
 }
+
 
 
 
