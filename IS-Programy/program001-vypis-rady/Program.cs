@@ -17,10 +17,26 @@ while (again == "a")
 
         Console.WriteLine("Zadejte první číslo řady (celé číslo):");
         int first;
-        while (!int.TryParse(Console.ReadLine(), out first))
-        {
-            Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo:");
-        }
+    while (!int.TryParse(Console.ReadLine(), out first))
+    {
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo:");
+    }
+                Console.WriteLine("Zadejte poslední číslo řady (celé číslo):");
+
+        int last;
+    while (!int.TryParse(Console.ReadLine(), out last))
+    {
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo:");
+    }
+                Console.WriteLine("Zadejte diferenci (celé číslo):");
+
+        int step;
+    while (!int.TryParse(Console.ReadLine(), out step))
+    {
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo:");
+    }
+        
+
        
     Console.WriteLine("");
     Console.WriteLine("Pro opakování programu stiskněte 'a', pro ukončení jinou klávesu.");
