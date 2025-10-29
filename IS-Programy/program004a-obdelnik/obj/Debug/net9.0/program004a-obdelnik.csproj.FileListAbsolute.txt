@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\refint\program004a-obdelnik.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\ref\program004a-obdelnik.dll
