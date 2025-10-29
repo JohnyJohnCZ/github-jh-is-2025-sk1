@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\bin\Debug\net9.0\program004c-samostudium.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\bin\Debug\net9.0\program004c-samostudium.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\bin\Debug\net9.0\program004c-samostudium.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\bin\Debug\net9.0\program004c-samostudium.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\bin\Debug\net9.0\program004c-samostudium.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\refint\program004c-samostudium.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\program004c-samostudium.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program004c-samostudium\obj\Debug\net9.0\ref\program004c-samostudium.dll
