@@ -58,7 +58,7 @@ Console.WriteLine("Zadejte horní mez (celé číslo):");
     Console.WriteLine("Pseudonáhodná čísla: ");
     for (int i = 0; i < n; i++)
     {
-        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound);
+        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
         Console.Write("{0}; ", myRandNumbs[i]);
 
         //počítání záporných, kladných čísel a nul
@@ -94,6 +94,85 @@ Console.WriteLine("Zadejte horní mez (celé číslo):");
     Console.WriteLine("Počet lichých čísel: {0}", oddNumbs);
     Console.WriteLine("=======================================");
 
+
+
+    //Hledání maxima a minima a jejich prvních pozic
+    int max = myRandNumbs[0]; //Předpokládáme, že první prvek v poli je maximem
+    int min = myRandNumbs[0]; //Předpokládáme, že první prvek v poli je minimem
+    int posMax = 0; //Pozice maxima
+    int posMin = 0; //Pozice minima
+
+    for (int i = 1; i < n; i++)
+    {
+        if (myRandNumbs[i] > max)
+        {
+            max = myRandNumbs[i];
+            posMax = i;
+        }
+        if (myRandNumbs[i] < min)
+        {
+            min = myRandNumbs[i];
+            posMin = i;
+        }
+    }
+    Console.WriteLine("=======================================");
+    Console.WriteLine("První maximum je {0} na pozici {1}", max, posMax);
+    Console.WriteLine("První minimum je {0} na pozici {1}", min, posMin);
+    Console.WriteLine("=======================================");
+
+
+
+    //Vykreslení přesýpacích hodin podle minima a maxima - dva plné trojúhelníky které se uprostřed dotýkají vrcholy
+
+    if (max >= 3)
+    {
+        for(int i = 0; i < max; i++)
+        {
+            int spaces, stars;
+            if (i < (max / 2))
+            {
+                spaces = i;
+                //horní polovina - s každým dalším řádkem ubývají 2 hvězdičky
+                stars = max - 2 * i;
+
+            }
+            else
+            {
+                spaces = max - i - 1;
+
+                //pokud je max liché číslo, tak se střední řádek vykreslí jednou
+                if (max % 2 == 1)
+                {
+                    stars = 2 * (i - (max / 2)) + 1;
+                }
+                else
+                {
+                    stars = stars = 2 * (i - (max / 2)) + 2;
+                }
+
+            }
+           
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            //vykreslení mezer
+            for (int sp = 0; sp < spaces; sp++)
+            {
+                Console.Write(" ");
+            }
+            //vykreslení hvězdiček
+            for (int st = 0; st < stars; st++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    }
+
+
+    else
+    {
+        Console.WriteLine("Obrazec se nevykreslí");
+    }
+    Console.ResetColor();
 
     Console.WriteLine("");
     Console.WriteLine("Pro opakování programu stiskněte 'a', pro ukončení jinou klávesu.");
