@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\refint\program015a-Konzolova-hra.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\ref\program015a-Konzolova-hra.dll

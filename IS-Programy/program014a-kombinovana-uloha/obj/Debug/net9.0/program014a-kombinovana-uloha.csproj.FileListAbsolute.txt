@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\refint\program014a-kombinovana-uloha.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\ref\program014a-kombinovana-uloha.dll

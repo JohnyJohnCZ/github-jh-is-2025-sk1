@@ -1,0 +1,15 @@
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\bin\Debug\net9.0\Zapocet_Honzicek.exe
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\bin\Debug\net9.0\Zapocet_Honzicek.deps.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\bin\Debug\net9.0\Zapocet_Honzicek.runtimeconfig.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\bin\Debug\net9.0\Zapocet_Honzicek.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\bin\Debug\net9.0\Zapocet_Honzicek.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.sourcelink.json
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\refint\Zapocet_Honzicek.dll
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.pdb
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\Zapocet_Honzicek.genruntimeconfig.cache
+C:\aaa\IS-2025\github-jh-is-2025-sk1\IS-Programy\Zapocet_Honzicek\obj\Debug\net9.0\ref\Zapocet_Honzicek.dll
